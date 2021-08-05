@@ -23,7 +23,7 @@ const Intro = () => {
         <div className="intro"  id="intro">
                 <div className="left">
                     <div className="imagecontainer">
-                    <img src="assets/man.png" alt="dev photo" />
+                    <img src="assets/man.png" alt="" />
 
                     </div>
 
@@ -37,7 +37,7 @@ const Intro = () => {
 
                     </div>
                     <a href="#portfolio">
-                        <img src="assets/down.png" alt="down arrow" />
+                        <img src="assets/down.png" alt="" />
 
                     </a>
 

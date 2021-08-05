@@ -7,7 +7,7 @@ import Testo from './components/testo/testo'
 import Portfolio from './components/portfolio/Portfolio'
 import Work from './components/work/Work'
 import './app.scss'
-import { useEffect , useRef } from 'react'
+// import { useEffect , useRef } from 'react'
 function App() {
   const [menuOpen,setMenuOpen] = useState(false);
 
