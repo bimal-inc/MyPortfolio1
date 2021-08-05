@@ -1,0 +1,18 @@
+@import '../../global.scss';
+
+.Portlist{
+    margin-top: 17px;
+    font-size: 14px;
+    margin-right: 50px;
+    padding:10px;
+    border-radius: 10px;
+    cursor: pointer;
+    
+    &.active{
+        padding-top: 5px;
+        padding-bottom: 20px;
+        background-color: $mainColor;
+        color: white;
+    }
+
+}
